@@ -1,3 +1,4 @@
 No code No pain
 experement with amend
-Hexlet is awesome too!
+Something important.
+i really try
